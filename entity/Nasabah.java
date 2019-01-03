@@ -9,7 +9,7 @@ package joop.entity;
  *
  * @author ThinkPad
  */
-public class Nasabah extends Bank{
+public class Nasabah extends Person{
     private String kodenasabah;
 
     public String getKodenasabah() {

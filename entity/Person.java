@@ -9,7 +9,7 @@ package joop.entity;
  *
  * @author ThinkPad
  */
-public class Bank {
+public class Person {
     private String nama;
     private String alamat;
 

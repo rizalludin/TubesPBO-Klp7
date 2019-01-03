@@ -9,7 +9,7 @@ package joop.entity;
  *
  * @author ThinkPad
  */
-public class Teller extends Bank {
+public class Teller extends Person {
     private String kodeteller;
 
     public String getKodeteller() {
